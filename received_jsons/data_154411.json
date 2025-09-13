@@ -1,0 +1,50 @@
+{
+    "received": {
+        "action": "send_file",
+        "file_name": "demo.json",
+        "file_content": {
+            "code": "104",
+            "message": "三元组数据",
+            "data": {
+                "name": "2",
+                "fileName": "0d15b2d3-0ffb-438e-b236-8d7f08ad2652",
+                "fileType": "jpeg",
+                "triples": [
+                    {
+                        "subject": "阿尔伯特·爱因斯坦",
+                        "predicate": "是...的科学家",
+                        "object": "德国（后入美国籍）"
+                    },
+                    {
+                        "subject": "鲁迅",
+                        "predicate": "是...的文学家",
+                        "object": "中国"
+                    },
+                    {
+                        "subject": "纳尔逊·曼德拉",
+                        "predicate": "是...的政治家",
+                        "object": "南非"
+                    },
+                    {
+                        "subject": "巴勃罗·毕加索",
+                        "predicate": "是...的艺术家",
+                        "object": "西班牙"
+                    },
+                    {
+                        "subject": "穆罕默德·阿里",
+                        "predicate": "是...的运动员",
+                        "object": "美国"
+                    },
+                    {
+                        "subject": "史蒂夫·乔布斯",
+                        "predicate": "是...的科技企业家",
+                        "object": "美国"
+                    }
+                ]
+            }
+        },
+        "timestamp": "2025-08-23T15:44:11.620467"
+    },
+    "msg": "消息已被接收",
+    "code": "1"
+}

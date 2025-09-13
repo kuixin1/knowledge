@@ -1,0 +1,9 @@
+{
+    "received": {
+        "action": "request_json_file",
+        "client_id": "7177b34f",
+        "timestamp": "2025-08-23T15:55:37.679994"
+    },
+    "code": "1",
+    "msg": "消息已被接收"
+}
